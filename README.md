@@ -1,5 +1,5 @@
 
-### olá! eu sou o Breno Gabriel 🖐~
+### olá! eu sou o Breno Gabriel 🖐
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@SadiZ.)
 
@@ -12,5 +12,4 @@
 <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br/>
 
-Estudando Js, CSS3 e HTML5
-Dev Junior
+Estudando Js, CSS3 e HTML5. Querendo Aprender Mais Linguagens De Programação
