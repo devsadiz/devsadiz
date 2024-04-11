@@ -3,7 +3,6 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@SadiZ.)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiz_icons=true&theme=radical)
 
 ## tecnologias que eu uso no meu dia
 
@@ -14,3 +13,4 @@
 </div><br/>
 
 Estudando Js, CSS3 e HTML5
+Dev Junior
